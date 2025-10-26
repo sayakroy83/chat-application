@@ -1,4 +1,4 @@
-Chat Application
+# Chat Application
 
 Simple real-time chat application built with a React frontend + Node/Express backend.
 
@@ -26,9 +26,9 @@ cd ../Frontend && npm install
 3. Set up your environment variables (e.g., MONGO_URI, JWT_SECRET, PORT)
 
 4. Run server and client
-   # In Backend  
+ >>In Backend  
    npm run dev  
-   # In Frontend  
+ >>In Frontend  
    npm start  
 
 🧩 Project Structure
